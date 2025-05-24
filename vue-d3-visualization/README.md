@@ -13,6 +13,10 @@ While exploring D3 chart tutorials online, many examples were incomplete or didn
 
 ---
 
+### References
+1. [Building Charts in Vue with D3](https://dev.to/jacobandrewsky/building-charts-in-vue-with-d3-38gl)
+2. [Data Visualization Vue JS D3](https://blog.logrocket.com/data-visualization-vue-js-d3/)
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
@@ -49,11 +53,11 @@ Go to: http://localhost:5173
 Each chart has its own page with explanation, example data, and chart component.
 
 ### 📦 Tech Stack
-* Vue 3
-* D3.js v7
+* [Vue 3](https://vuejs.org/)
+* [D3.js examples](https://observablehq.com/@d3/gallery)
 * Vite for dev server
 * Vue Router for page navigation
 
 ### 👋 Maintainer
-Made with 💙 by Sri Ram Pothuraju
-Follow the journey at VueNuxt Hub
+Made with 💙 by [Sri Ram Pothuraju](https://www.linkedin.com/in/pothuraju-dev/)    
+Follow the journey at [VueNuxt Hub](https://www.linkedin.com/company/vuenuxt-hub)
